@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JavaScript, C#**
 
-- 💬 Ask me about **JavaScript, html, css**
+- 💬 Ask me about **JavaScript, html, css, C, C++**
 
 - 📫 How to reach me **himanshusemwal2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_shoya05" height="30" width="40" /></a>
+<a href="https://twitter.com/Himansh55102679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_shoya05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shoyab-khan-b99369239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoyab-khan-b99369239" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_shoya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_shoya05" height="30" width="40" /></a>
 </p>
