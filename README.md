@@ -68,8 +68,8 @@ Console-based system built using C and Data Structures.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Link]  
-- 💻 GitHub: https://github.com/yourusername  
+- 💼 LinkedIn: www.linkedin.com/in/himanshusemwal2003  
+- 💻 GitHub: https://github.com/himanshusemwal0910
 
 ---
 
