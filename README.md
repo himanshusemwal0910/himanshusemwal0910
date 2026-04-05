@@ -1,76 +1,64 @@
-# Hi, I'm Himanshu 👋
+# Hi, I'm Himanshu Semwal 👋
 
-🚀 Frontend-focused Web Developer | MERN Stack (Learning) | Java & DSA | 🇯🇵 Japanese Learner  
+## 💻 Full Stack Developer (MERN)
 
----
+Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), with hands-on experience building scalable and responsive web applications.
 
-## 👨‍💻 About Me
+I have developed full-stack projects and contributed to live production websites, focusing on clean code, performance optimization, and user experience.
 
-- 💻 I build responsive and user-friendly web applications using React.js and JavaScript  
-- 🌱 Currently learning and building full-stack applications with the MERN stack  
-- 🧠 Strong foundation in Data Structures and Java  
-- 🇯🇵 Learning Japanese and interested in opportunities in Japan  
+I also have experience working with PHP and MySQL for backend development, and have used React.js to build dynamic and interactive user interfaces in my projects.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- React.js  
-- JavaScript  
-- HTML5  
-- CSS3  
-- Bootstrap  
-
-### ⚙️ Backend (Learning)
-- Node.js  
-- Express.js  
-- MongoDB  
-
-### 🧠 Core
-- Data Structures  
-- Algorithms  
-- DBMS  
-- Operating Systems  
-
-### 🛠️ Tools
-- Git  
-- GitHub  
+In addition, I have a strong foundation in programming with Java and C, along with a solid understanding of data structures and problem-solving.
 
 ---
 
-## 🚀 Projects
+## 🚀 Skills
 
-### 🔹 PG Life — Full-Stack Web App  
-A web application to search and explore PG accommodations.  
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL  
-
----
-
-### 🔹 ThinkBoard — MERN Stack App (In Progress)  
-A notes management app with full CRUD functionality.  
-**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
+- Backend: Node.js, Express.js, PHP  
+- Database: MongoDB, MySQL  
+- Programming: Java, C  
+- Tools: Git, GitHub, REST APIs, AWS (EC2, S3)  
 
 ---
 
-### 🔹 Hotel Management System  
-Console-based system built using C and Data Structures.  
+## 📌 Projects
+
+### 🔹 MERN ThinkBoard  
+Full-stack MERN application with CRUD functionality and REST APIs  
+👉 https://github.com/burakorkmez/mern-thinkboard  
+
+### 🔹 PG Life System  
+Full-stack application using PHP and MySQL, with React.js for dynamic UI components  
+👉 https://github.com/himanshusemwal0910/PG--Life  
+
+### 🔹 Rigveda Resort  
+Worked on a live production website, improving UI and responsiveness 
+www.rigvedaresort.com
 
 ---
 
-## 📈 Currently Working On
+## 🌏 Career Goal
 
-- Building a full-stack MERN project  
-- Improving backend and API development skills  
-- Strengthening problem-solving with DSA  
+I am interested in working as a software engineer in Japan, contributing to real-world development projects while continuously improving my technical and communication skills.
 
 ---
 
-## 🌐 Connect With Me
+## 🇯🇵 日本語
 
-- 💼 LinkedIn: www.linkedin.com/in/himanshusemwal2003  
-- 💻 GitHub: https://github.com/himanshusemwal0910
+MERNスタック（MongoDB・Express.js・React・Node.js）を用いたWeb開発を行っています。  
+フルスタック開発の経験があり、実際のWebサイト改善にも携わりました。  
+
+また、PHPとMySQLを用いたバックエンド開発に加え、React.jsによる動的なUIの構築経験があります。  
+
+さらに、JavaとCの基礎知識を持ち、データ構造や問題解決力を身につけています。  
+
+日本でソフトウェアエンジニアとして働くことを目指しています。  
+日本語：JLPT N4レベル（現在N3レベルに向けて学習中）
 
 ---
 
-⭐ Always open to learning, building, and collaborating!
+## 📫 Contact
+
+- GitHub: https://github.com/himanshusemwal0910  
+- LinkedIn: https://www.linkedin.com/in/himanshusemwal2003  
